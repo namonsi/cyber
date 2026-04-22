@@ -2,7 +2,7 @@
 
 A premium, high-octane Cyberpunk-themed landing page built for maximum visual impact. This project demonstrates advanced frontend techniques, combining immersive 3D environments with buttery-smooth scroll orchestrations.
 
-![Preview](https://raw.githubusercontent.com/namonsi/cyber/main/public/character.png)
+
 
 ## ✨ Key Features
 
